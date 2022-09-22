@@ -51,10 +51,6 @@ The first semester focuses on the basic and advanced knowledge of the Rhino-Gras
 <!-- - [**Week 13** (25.05.22) Final Presentation and Discussion](Timetable_DDM_II/Week_14.md) -->
 
 ---
-
-![TitleImage](./doc/00_DDMI_Perspective_II.jpg)
-
-
 ### Quicklinks
 
 #### Essential
@@ -80,13 +76,10 @@ The first semester focuses on the basic and advanced knowledge of the Rhino-Gras
 - [MeshToVR_Loop 2](17_MeshToVR_Loop_II.md)
 
 ---
-
-![TitleImageII](./doc/00_DDMI_Perspective_III.jpg)
-
-> Authors
-> * [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
-> * [Ilmar Hurkxkens](https://ilmarhurkxkens.com/) / hurkxkens@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
-> * [Zhao Ma](https://beyond-disciplines.com) / ma@arch.ethz.ch / Chair of Landscape Architecture / Professor Teresa Galí-Izard / ETH Zurich
-> * [Dennis Häusler](https://girot.arch.ethz.ch/?team=dennis-hausler) / haeusler@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
-> * Philip Meile / phmeile@student.ethz.ch / Hilfsassistenz
-> * Michael Zuber  / mzuber@student.ethz.ch / Hilfsassistenz
+### Authors
+* [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
+* [Ilmar Hurkxkens](https://ilmarhurkxkens.com/) / hurkxkens@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
+* [Zhao Ma](https://beyond-disciplines.com) / ma@arch.ethz.ch / Chair of Landscape Architecture / Professor Teresa Galí-Izard / ETH Zurich
+* [Dennis Häusler](https://girot.arch.ethz.ch/?team=dennis-hausler) / haeusler@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
+* Philip Meile / phmeile@student.ethz.ch / Hilfsassistenz
+* Michael Zuber  / mzuber@student.ethz.ch / Hilfsassistenz
