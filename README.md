@@ -22,7 +22,7 @@ The first semester focuses on the basic and advanced knowledge of the Rhino-Gras
 - [**Week 03** (10.10.22) - Rhinoceros Advanced Modelling](Timetable_DDM_I/Week_03.md)
 - [**Week 04** (17.10.22) - Grasshopper Introduction](Timetable_DDM_I/Week_04.md)
 - **Week 05** (24.10.22) - Seminarweek
-- **Week 06** (01.11.22) - CloudCompare
+- **Week 06** (01.11.22) - Switched class due to studio travel
 - [**Week 07** (07.11.22) - Grasshopper Advanced](Timetable_DDM_I/Week_07.md)
 - [**Week 08** (14.11.22) - QGIS](Timetable_DDM_I/Week_08.md)
 - [**Week 08** (16.11.22)(Wed) - QGIS](Timetable_DDM_I/Week_08.md)
