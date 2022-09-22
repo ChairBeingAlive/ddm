@@ -9,8 +9,8 @@ The contents of the three-semester series include basic techniques of data colle
 
 The first semester focuses on the basic and advanced knowledge of the Rhino-Grasshopper system and the QGIS tool. The former is a platform that has been universally accepted by the design community for its parametric modelling and programming capacities, while the latter serves as a common approach to accquire public available geographic data for design use.
 
-<!-- The second semester focuses on the integration of sensing and GIS tools into a topographical three-dimensional modelling workflow. -->
-<!---->
+The second semester focuses on the data acquisition directly from the field using self-build Arduino toolkits.
+
 <!-- The third semester aims at integrating the tools and methods into a studio design. -->
 
 ## Digital Design Methods I
@@ -28,7 +28,7 @@ The first semester focuses on the basic and advanced knowledge of the Rhino-Gras
 - [**Week 08** (16.11.22)(Wed) - QGIS](Timetable_DDM_I/Week_08.md)
 - [**Week 09** (21.11.22) - QGIS](Timetable_DDM_I/Week_09.md)
 - [**Week 10** (28.11.22) - QGIS](Timetable_DDM_I/Week_10.md)
-- [**Week 11** (02.12.22)(Fri) - Pipeline Integration](Timetable_DDM_I/Week_11.md)
+- [**Week 11** (02.12.22)(Fri) - Presentation Integration](Timetable_DDM_I/Week_11.md)
 - [**Week 12** (13.12.22) - Presentation](Timetable_DDM_I/Week_12.md)
 
 <!-- ## Digital Design Methods 2 -->
