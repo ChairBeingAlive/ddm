@@ -78,12 +78,12 @@ The first semester focuses on the basic and advanced knowledge of the Rhino-Gras
 ---
 ### Authors
 #### Current
-* [Zhao Ma](https://beyond-disciplines.com) / ma@arch.ethz.ch / Chair of Landscape Architecture / Professor Teresa Galí-Izard / ETH Zurich
+* [Zhao Ma](https://beyond-disciplines.com) / ma@arch.ethz.ch / Chair of Landscape Architecture / Prof. Teresa Galí-Izard / ETH Zurich
 
 
 #### Past
-* [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
-* [Ilmar Hurkxkens](https://ilmarhurkxkens.com/) / hurkxkens@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
-* [Dennis Häusler](https://girot.arch.ethz.ch/?team=dennis-hausler) / haeusler@arch.ethz.ch / Chair of Landscape Architecture / Professor Christophe Girot / ETH Zurich
+* [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Prof. Christophe Girot / ETH Zurich
+* [Ilmar Hurkxkens](https://ilmarhurkxkens.com/) / hurkxkens@arch.ethz.ch / Chair of Landscape Architecture / Prof. Christophe Girot / ETH Zurich
+* [Dennis Häusler](https://girot.arch.ethz.ch/?team=dennis-hausler) / haeusler@arch.ethz.ch / Chair of Landscape Architecture / Prof. Christophe Girot / ETH Zurich
 * Philip Meile / phmeile@student.ethz.ch / Hilfsassistenz
 * Michael Zuber  / mzuber@student.ethz.ch / Hilfsassistenz
