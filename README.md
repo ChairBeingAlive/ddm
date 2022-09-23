@@ -2,8 +2,7 @@
 ![TitleImage](./doc/00_DDMI_Perspective_I.jpg)
 
 # Digital Design Methods (DDM)
-
-This course covers the essential digital tools for contemporary landscape architects. And is a re-made version of the previous offerred course under the [same name](https://github.com/girot-ethz/ddm). 
+This course covers the essential digital tools for contemporary landscape architects. The Fall2022 class is a re-made version of the previous offerred course under the same[name](https://github.com/girot-ethz/ddm). 
 
 The contents of the three-semester series include basic techniques of data collection, transformation and modelling as well as methods for visualisation and verification of designs.
 
@@ -28,8 +27,7 @@ The second semester focuses on the data acquisition directly from the field usin
 - [**Week 08** (16.11.22)(Wed) - QGIS](Timetable_DDM_I/Week_08.md)
 - [**Week 09** (21.11.22) - QGIS](Timetable_DDM_I/Week_09.md)
 - [**Week 10** (28.11.22) - QGIS](Timetable_DDM_I/Week_10.md)
-- [**Week 11** (02.12.22)(Fri) - Presentation Integration](Timetable_DDM_I/Week_11.md)
-- [**Week 12** (13.12.22) - Presentation](Timetable_DDM_I/Week_12.md)
+- [**Week 11** (02.12.22)(Fri) - Final Presentation](Timetable_DDM_I/Week_11.md)
 
 <!-- ## Digital Design Methods 2 -->
 <!---->
@@ -55,13 +53,13 @@ The second semester focuses on the data acquisition directly from the field usin
 
 #### Essential
 - [How to Connect to the Server](06_Serveracesstutorial.md)
-<!-- [History of the Site](00_History_of_the_Site.md) -->
-- [Overview Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.md)
 - [Rhino Basics](01_Rhino_Tutorial.md)
 - [Rhino Basic Commands](02_Rhino_Basic_Commands.md)
 - [Rhino Grasshopper - Getting Started](08_Grasshopper.md)
 - [Rhino Grasshopper - Beginners Guide](08.1_Grasshopper_mz.md)
+- [Rhino Grasshopper Tips & Tricks](12_Rhino_Grasshopper_Tips_and_Tricks.md)
 - [QGIS - DTM to 3D Topography](11_QGIS_Topography.md)
+<!-- [History of the Site](00_History_of_the_Site.md) -->
 
 
 #### Optional
@@ -70,7 +68,7 @@ The second semester focuses on the data acquisition directly from the field usin
 - [Photogrammetry](05_Photogrammetry.md)
 - [MultiCam Tutorial](09_MultiCam_Tutorial.md)
 - [RhinoCam Tutorial](10_RhinoCam_Tutorial.md)
-- [Rhino Grasshopper Tips & Tricks](12_Rhino_Grasshopper_Tips_and_Tricks.md)
+- [Overview Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.md)
 - [VR Instructions](15_VR-Instructions.md)
 - [Rhino to VR Tutorial Loop 1](16_RhinoToVR_Loop.md)
 - [MeshToVR_Loop 2](17_MeshToVR_Loop_II.md)
@@ -80,8 +78,7 @@ The second semester focuses on the data acquisition directly from the field usin
 #### Current
 * [Zhao Ma](https://beyond-disciplines.com) / ma@arch.ethz.ch / Chair of Landscape Architecture / Prof. Teresa Galí-Izard / ETH Zurich
 
-
-#### Past
+#### Alumni
 * [Benedikt Kowalewski](https://dfab.ch/people/benedikt-kowalewski-2) / kowalewski@arch.ethz.ch / Chair of Landscape Architecture / Prof. Christophe Girot / ETH Zurich
 * [Ilmar Hurkxkens](https://ilmarhurkxkens.com/) / hurkxkens@arch.ethz.ch / Chair of Landscape Architecture / Prof. Christophe Girot / ETH Zurich
 * [Dennis Häusler](https://girot.arch.ethz.ch/?team=dennis-hausler) / haeusler@arch.ethz.ch / Chair of Landscape Architecture / Prof. Christophe Girot / ETH Zurich
