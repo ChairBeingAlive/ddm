@@ -16,18 +16,31 @@ The second semester focuses on the data acquisition directly from the field usin
 
 ### Timetable Fall 2022
 | Week/Date                | Content                                                     |
+
 | ------------------------ | ----------------------------------------------------------- |
+
 | **Week 01 (26/09/2022)** | [Kickoff Session](Timetable_DDM_I/Week_01.md)               |
+
 | **Week 02 (03/10/2022)** | [Rhinoceros Introduction](Timetable_DDM_I/Week_02.md)       |
+
 | **Week 03 (10/10/2022)** | [Rhinoceros Advanced Modelling](Timetable_DDM_I/Week_03.md) |
+
 | **Week 04 (17/10/2022)** | [Grasshopper Introduction](Timetable_DDM_I/Week_04.md)      |
+
 | **Week 05 (24/10/2022)** | Seminar Week                                                |
+
 | **Week 06 (01/11/2022)** | Class switched due to studio travel                         |
+
 | **Week 07 (07/11/2022)** | [Grasshopper Advanced](Timetable_DDM_I/Week_07.md)          | 
+
 | **Week 08 (14/11/2022)** | QGIS Intro                                                  |
+
 | **Week 08 (16/11/2022)** | QGIS Intermediate (Wed)                                     |
+
 | **Week 09 (21/11/2022)** | QGIS Advanced                                               |
+
 | **Week 10 (28/11/2022)** | TBD                                                         |
+
 | **Week 11 (02/12/2022)** | Final Presentation (Fri)                                    |
 
 
@@ -38,10 +51,9 @@ The second semester focuses on the data acquisition directly from the field usin
 <!-- - **Week 05** (24.10.22) - Seminarweek -->
 <!-- - **Week 06** (01.11.22) - Switched class due to studio travel -->
 <!-- - [**Week 07** (07.11.22) - Grasshopper Advanced](Timetable_DDM_I/Week_07.md) -->
-<!---->
-<!-- - **Week 08** (14.11.22) - QGIS -->
-<!-- - **Week 08** (16.11.22)(Wed) - QGIS -->
-<!-- - **Week 09** (21.11.22) - QGIS -->
+<!-- - **Week 08** (14.11.22) - QGIS Introduction -->
+<!-- - **Week 08** (16.11.22)(Wed) - QGIS Intermediate -->
+<!-- - **Week 09** (21.11.22) - QGIS Advaiced -->
 <!-- - **Week 10** (28.11.22) - TBD -->
 <!-- - **Week 11** (02.12.22)(Fri) - Final Presentation -->
 
