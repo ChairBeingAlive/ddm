@@ -1,19 +1,16 @@
 # Week 07
 
-08.11.21 - Rhinoceros3D - Basic Modeling
+07.11.21 - Rhinoceros3D - Grasshopper Advanced
 
 Location: LVML (HIL H 40.8)
 
 ## Schedule
-12:45-13:30, Introduction to Rhinocerso3D by Benedikt Kowalewski
+12:45-13:30, Advanced Grasshopper Topics
 
 13:30-13:45, Break
 
-13:45-14:30, Exercise Rhino Tutorial I
+13:45-14:30, Exercise Grasshopper II 
 
-## Assignment for week 8
-Create countour lines for the mesh of Klopstockwiese
-
-Bonus: Make the contours smooth.
-
+## Assignment for W7
+TBD
 

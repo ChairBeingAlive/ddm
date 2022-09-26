@@ -2,7 +2,7 @@
 ![TitleImage](./doc/00_DDMI_Perspective_I.jpg)
 
 # Digital Design Methods (DDM)
-This course covers the essential digital tools for contemporary landscape architects. The Fall2022 class is a re-made version of the previous offerred course under the same[name](https://github.com/girot-ethz/ddm). 
+This course covers the essential digital tools for contemporary landscape architects. The Fall2022 class is a re-made version of the previous offerred course under the same [name](https://github.com/girot-ethz/ddm). 
 
 The contents of the three-semester series include basic techniques of data collection, transformation and modelling as well as methods for visualisation and verification of designs.
 
@@ -23,11 +23,18 @@ The second semester focuses on the data acquisition directly from the field usin
 - **Week 05** (24.10.22) - Seminarweek
 - **Week 06** (01.11.22) - Switched class due to studio travel
 - [**Week 07** (07.11.22) - Grasshopper Advanced](Timetable_DDM_I/Week_07.md)
-- [**Week 08** (14.11.22) - QGIS](Timetable_DDM_I/Week_08.md)
-- [**Week 08** (16.11.22)(Wed) - QGIS](Timetable_DDM_I/Week_08.md)
-- [**Week 09** (21.11.22) - QGIS](Timetable_DDM_I/Week_09.md)
-- [**Week 10** (28.11.22) - QGIS](Timetable_DDM_I/Week_10.md)
-- [**Week 11** (02.12.22)(Fri) - Final Presentation](Timetable_DDM_I/Week_11.md)
+
+- **Week 08** (14.11.22) - QGIS
+- **Week 08** (16.11.22)(Wed) - QGIS
+- **Week 09** (21.11.22) - QGIS
+- **Week 10** (28.11.22) - TBD
+- **Week 11** (02.12.22)(Fri) - Final Presentation
+
+<!-- - [**Week 08** (14.11.22) - QGIS](Timetable_DDM_I/Week_08.md) -->
+<!-- - [**Week 08** (16.11.22)(Wed) - QGIS](Timetable_DDM_I/Week_08.md) -->
+<!-- - [**Week 09** (21.11.22) - QGIS](Timetable_DDM_I/Week_09.md) -->
+<!-- - [**Week 10** (28.11.22) - QGIS](Timetable_DDM_I/Week_10.md) -->
+<!-- - [**Week 11** (02.12.22)(Fri) - Final Presentation](Timetable_DDM_I/Week_11.md) -->
 
 <!-- ## Digital Design Methods 2 -->
 <!---->

@@ -1,16 +1,17 @@
 # Week 03
 
-11.10.21 - Photogrammetry
+10.10.21 - Rhinoceros Advanced
 
 Location: LVML (HIL H 40.8)
 
+
 ## Schedule
-12:45-13:30, Introduction by Benedikt Kowalewski
+12:45-13:30, Advanced 3D Modelling
+13:30-13:45, Break
+13:45-14:30, Exercise Rhino Tutorial II
 
-13:30-14:30, Drone Flight at ETH Honggerberg
+## Resource
+- [Tips & Tricks](../12_Rhino_Grasshopper_Tips_and_Tricks.md)
 
-
-Bonus points: Take your own photo's of a small-scale object and process them using Agisoft Photoscan
-
-## Links
-- [Photogrammetry Tutorial](https://girot-ethz.github.io/ddm-I/05_Photogrammetry.html)
+<!-- ## Links -->
+<!-- - [Photogrammetry Tutorial](https://girot-ethz.github.io/ddm-I/05_Photogrammetry.html) -->

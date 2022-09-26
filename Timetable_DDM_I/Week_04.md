@@ -1,18 +1,17 @@
 # Week 04
 
-18.10.21 - ReCAP & Cloudcompare
+17.10.21 - Rhinoceros3D - Grasshopper
 
 Location: LVML (HIL H 40.8)
 
+Tutorial: [Rhino Grasshopper](../08_Grasshopper.md)
+
 ## Schedule
-12:45-13:30, Workshop ReCAP Scan Registration & Export by Dennis Häusler & Matthias Vollmer
+12:45-13:30, Grasshopper Basics
 
-13:45-14:30, Exercise ReCAP Scan Registration & Export
+13:30-13:45, Break
 
-## Assignment for week 6
-Finish the scan registration & include week 3 in your process documentation
+13:45-14:30, Exercise Grasshopper I
 
-## Links
-- [Download & Educational License for ReCAP](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1)
-- [Download Cloudcompare - Go for the latest stable release](https://www.danielgm.net/cc/)
-
+## Assignment for W4
+TBD

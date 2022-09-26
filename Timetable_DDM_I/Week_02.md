@@ -1,16 +1,17 @@
 # Week 02
 
-04.10.21 - Terrestrial Laser Scanning
+03.10.21 - Rhinoceros Introduction & Basic Modelling
 
-Location: Meeting in the LVML (HIL H 40.8) & Scanning on site
-
-Overview: [Terrestrial Laser Scanning](13_Terrestrial_Laser_Scanning.md)
+Location: LVML (HIL H 40.8)
 
 ## Schedule
-12:45-13:30, Workshop ReCAP Scan Registration & Export by Dennis Häusler & Matthias Vollmer
+12:45-13:30, Introduction to Rhinoceros 
 
-13:45-14:30, Exercise ReCAP Scan Registration & Export
+13:45-14:30, Exercise Rhino Tutorial I 
 
-## Links
-- [Download & Educational License for ReCAP](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1)
-- [Download Cloudcompare - Go for the latest stable release](https://www.danielgm.net/cc/)
+## Resource
+- [Rhino Tutorial](../01_Rhino_Tutorial.md)
+- [Rhino Basic Commands](../02_Rhino_Basic_Commands.md)
+
+## External Links
+- [Rhinoceros Website](https://www.rhino3d.com)
