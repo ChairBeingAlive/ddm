@@ -16,6 +16,7 @@ The second semester focuses on the data acquisition directly from the field usin
 
 ### Timetable Fall 2022
 
+<!-- Need  the first line for website preview -->
 | ------------------------ | ----------------------------------------------------------- |
 | Week/Date                | Content                                                     |
 | ------------------------ | ----------------------------------------------------------- |
@@ -25,12 +26,14 @@ The second semester focuses on the data acquisition directly from the field usin
 | **Week 04 (17/10/2022)** | [Grasshopper Introduction](Timetable_DDM_I/Week_04.md)      |
 | **Week 05 (24/10/2022)** | Seminar Week                                                |
 | **Week 06 (01/11/2022)** | Class switched due to studio travel                         |
-| **Week 07 (07/11/2022)** | [Grasshopper Advanced](Timetable_DDM_I/Week_07.md)          | 
+| **Week 07 (07/11/2022)** | [Grasshopper Advanced](Timetable_DDM_I/Week_07.md)          |
 | **Week 08 (14/11/2022)** | QGIS Intro                                                  |
 | **Week 08 (16/11/2022)** | QGIS Intermediate (Wed)                                     |
 | **Week 09 (21/11/2022)** | QGIS Advanced                                               |
 | **Week 10 (28/11/2022)** | TBD                                                         |
 | **Week 11 (02/12/2022)** | Final Presentation (Fri)                                    |
+
+
 
 <!-- - [**Week 01** (26.09.22) - Kickoff Session](Timetable_DDM_I/Week_01.md) -->
 <!-- - [**Week 02** (03.10.22) - Rhinoceros Introduction](Timetable_DDM_I/Week_02.md) -->
