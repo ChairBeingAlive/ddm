@@ -15,3 +15,5 @@ Location: G65 (Studio Space)
 
 ## External Links
 - [Rhinoceros Website](https://www.rhino3d.com)
+- [Official Tutorial Collection](https://www.rhino3d.com/learn/)
+- [ETH Bachelor's Rhino Course](https://gramaziokohler.arch.ethz.ch/teaching-materials/)
