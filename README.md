@@ -70,7 +70,6 @@ The second semester focuses on the data acquisition directly from the field usin
 <!-- - **Week 13** (23.05.22) No Class -->
 <!-- - [**Week 13** (25.05.22) Final Presentation and Discussion](Timetable_DDM_II/Week_14.md) -->
 
----
 ### Quicklinks
 
 #### Essential
