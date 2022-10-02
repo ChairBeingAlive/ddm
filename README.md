@@ -16,7 +16,6 @@ The second semester focuses on the data acquisition directly from the field usin
 
 ### Timetable Fall 2022
 
-<!-- Need  the first line for website preview -->
 | ------------------------ | ----------------------------------------------------------- |
 | Week/Date                | Content                                                     |
 | ------------------------ | ----------------------------------------------------------- |
@@ -32,7 +31,6 @@ The second semester focuses on the data acquisition directly from the field usin
 | **Week 09 (21/11/2022)** | QGIS Advanced                                               |
 | **Week 10 (28/11/2022)** | TBD                                                         |
 | **Week 11 (02/12/2022)** | Final Presentation (Fri)                                    |
-| ------------------------ | ----------------------------------------------------------- |
 
 
 <!-- - [**Week 01** (26.09.22) - Kickoff Session](Timetable_DDM_I/Week_01.md) -->
