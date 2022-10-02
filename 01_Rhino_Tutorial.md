@@ -22,7 +22,7 @@ First of all. The Help tool (you can also press `F1`) in Rhino is very well done
 
 ---
 
-## Rhino 6 Interface
+## Rhino 7 Interface
 
 Modeling in 3‑D is the process of creating a mathematical representation of an object’s surfaces. The resulting model is displayed on your screen as a two-dimensional image. Rhino provides tools for creating, displaying, and manipulating these surfaces.
 
