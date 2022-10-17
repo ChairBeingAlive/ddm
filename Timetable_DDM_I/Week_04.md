@@ -4,7 +4,6 @@
 
 Location: LVML (HIL H 40.8)
 
-Tutorial: [Rhino Grasshopper](../08_Grasshopper.md)
 
 ## Schedule
 12:45-13:30, Grasshopper Basics
@@ -17,3 +16,7 @@ Tutorial: [Rhino Grasshopper](../08_Grasshopper.md)
 
 - Assignment 02
 <!-- - [Assignment 02](../assignments/Assignment_02.pdf) -->
+
+
+## Resource 
+Tutorial: [Rhino Grasshopper](../08_Grasshopper.md)
