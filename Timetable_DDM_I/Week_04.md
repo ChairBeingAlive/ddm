@@ -1,6 +1,6 @@
 # Week 04
 
-17.10.21 - Rhinoceros3D - Grasshopper
+17.10.21 - Grasshopper Introduction
 
 Location: LVML (HIL H 40.8)
 
@@ -13,5 +13,7 @@ Tutorial: [Rhino Grasshopper](../08_Grasshopper.md)
 
 13:45-14:30, Exercise Grasshopper I
 
-## Assignment for W4
-TBD
+## Assignment Release
+
+- Assignment 02
+<!-- - [Assignment 02](../assignments/Assignment_02.pdf) -->

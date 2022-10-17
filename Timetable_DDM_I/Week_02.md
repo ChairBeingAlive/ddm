@@ -9,6 +9,9 @@ Location: LVML (HIL H 40.8)
 
 13:45-14:30, Exercise Rhino Tutorial I 
 
+## Assignment Release
+- [Assignment 01](../assignments/Assignment_01.pdf)
+
 ## Resource
 - [Rhino Tutorial](../01_Rhino_Tutorial.md)
 - [Rhino Basic Commands](../02_Rhino_Basic_Commands.md)

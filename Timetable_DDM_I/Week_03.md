@@ -12,6 +12,3 @@ Location: LVML (HIL H 40.8)
 
 ## Resource
 - [Tips & Tricks](../12_Rhino_Grasshopper_Tips_and_Tricks.md)
-
-<!-- ## Links -->
-<!-- - [Photogrammetry Tutorial](https://girot-ethz.github.io/ddm-I/05_Photogrammetry.html) -->
