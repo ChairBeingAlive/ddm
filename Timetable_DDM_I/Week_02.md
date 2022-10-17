@@ -2,7 +2,7 @@
 
 03.10.21 - Rhinoceros Introduction & Basic Modelling
 
-Location: LVML (HIL H 40.8)
+Location: G65 (Studio Space) 
 
 ## Schedule
 12:45-13:30, Introduction to Rhinoceros 
@@ -18,3 +18,5 @@ Location: LVML (HIL H 40.8)
 
 ## External Links
 - [Rhinoceros Website](https://www.rhino3d.com)
+- [Official Tutorial Collection](https://www.rhino3d.com/learn/)
+- [ETH Bachelor's Rhino Course](https://gramaziokohler.arch.ethz.ch/teaching-materials/)
