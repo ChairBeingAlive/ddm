@@ -6,8 +6,11 @@ Location: LVML (HIL H 40.8)
 
 
 ## Schedule
+
 12:45-13:30, Advanced 3D Modelling
+
 13:30-13:45, Break
+
 13:45-14:30, Exercise Rhino Tutorial II
 
 ## Resource

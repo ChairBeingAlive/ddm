@@ -1,6 +1,6 @@
 # Week 07
 
-07.11.21 - Rhinoceros3D - Grasshopper Advanced
+07.11.21 - Grasshopper Advanced
 
 Location: LVML (HIL H 40.8)
 

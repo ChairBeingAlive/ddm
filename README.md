@@ -16,8 +16,6 @@ The second semester focuses on the data acquisition directly from the field usin
 
 ### Timetable Fall 2022
 
-<!-- Need  the first line for website preview -->
-| ------------------------ | ----------------------------------------------------------- |
 | Week/Date                | Content                                                     |
 | ------------------------ | ----------------------------------------------------------- |
 | **Week 01 (26/09/2022)** | [Kickoff Session](Timetable_DDM_I/Week_01.md)               |
