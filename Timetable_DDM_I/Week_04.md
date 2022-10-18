@@ -14,8 +14,7 @@ Location: LVML (HIL H 40.8)
 
 ## Assignment Release
 
-- Assignment 02
-<!-- - [Assignment 02](../assignments/Assignment_02.pdf) -->
+- [Assignment 02A](../assignments/Assignment_2A.pdf)
 
 
 ## Resource 
