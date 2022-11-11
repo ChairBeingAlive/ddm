@@ -12,7 +12,6 @@ Location: LVML (HIL H 40.8)
 13:45-14:30, Exercise Grasshopper II 
 
 ## Assignment for W7
-- Assignment 02B
 - [Assignment 02B](../assignments/Assignment_2B.pdf)
 
 ## Supplementary Material
