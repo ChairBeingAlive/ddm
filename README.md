@@ -25,7 +25,7 @@ The second semester focuses on the data acquisition directly from the field usin
 | **Week 05 (24/10/2022)** | Seminar Week                                                |
 | **Week 06 (31/10/2022)** | Class switched due to studio travel                         |
 | **Week 07 (07/11/2022)** | [Grasshopper Advanced](Timetable_DDM_I/Week_07.md)          |
-| **Week 08 (14/11/2022)** | QGIS Intro                                                  |
+| **Week 08 (14/11/2022)** | [QGIS Intro][Timetable_DDM_I/Week08-1.md]                   |
 | **Week 08 (16/11/2022)** | Making Topology with Rhino/Grasshopper                      |
 | **Week 09 (21/11/2022)** | QGIS Intermediate                                           |
 | **Week 10 (28/11/2022)** | QGIS Advanced                                               |
