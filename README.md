@@ -29,7 +29,7 @@ The second semester focuses on the data acquisition directly from the field usin
 | **Week 08 (16/11/2022)** | [Topolography in Rhino/Grasshopper](Timetable_DDM_I/Week_08_2.md) |
 | **Week 09 (21/11/2022)** | [QGIS Intermediate](Timetable_DDM_I/Week_09.md)                   |
 | **Week 10 (28/11/2022)** | [QGIS Advanced](Timetable_DDM_I/Week_10.md)                       |
-| **Week 11 (02/12/2022)** | Final Presentation (Fri)                                          |
+| **Week 11 (05/12/2022)** | Pipeline and Beyond (Timetable_DDM_I/Week_11.md)                  |
 
 
 <!-- - [**Week 01** (26.09.22) - Kickoff Session](Timetable_DDM_I/Week_01.md) -->

@@ -4,7 +4,7 @@
 
 Location: Studio (HIL G 65)
 
-Tutorial: [Rhino Grasshopper](https://girot-ethz.github.io/ddm-I/08_Grasshopper.html)
+Tutorial: [Rhino Grasshopper](https://chairbeingalive.github.io/ddm-I/08_Grasshopper.html)
 
 ## Schedule
 12:45-13:30, Lecture on topography 
@@ -13,8 +13,6 @@ Tutorial: [Rhino Grasshopper](https://girot-ethz.github.io/ddm-I/08_Grasshopper.
 
 13:45-14:30, Demo & Exercise
 
-<!-- ## Assignment for W8-2 -->
-<!-- - [Assignment 02B](../assignments/Assignment_2B.pdf) -->
 
 ## Links:
 - [Switzerland Topography Model](https://www.swisstopo.admin.ch/en/geodata/height.html)
