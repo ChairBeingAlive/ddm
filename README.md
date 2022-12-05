@@ -16,20 +16,20 @@ The second semester focuses on the data acquisition directly from the field usin
 
 ### Timetable Fall 2022
 
-| Week/Date                | Content                                                           |
-| ------------------------ | ----------------------------------------------------------------  |
-| **Week 01 (26/09/2022)** | [Kickoff Session](Timetable_DDM_I/Week_01.md)                     |
-| **Week 02 (03/10/2022)** | [Rhinoceros Introduction](Timetable_DDM_I/Week_02.md)             |
-| **Week 03 (10/10/2022)** | [Rhinoceros Advanced Modelling](Timetable_DDM_I/Week_03.md)       |
-| **Week 04 (17/10/2022)** | [Grasshopper Introduction](Timetable_DDM_I/Week_04.md)            |
-| **Week 05 (24/10/2022)** | Seminar Week                                                      |
-| **Week 06 (31/10/2022)** | Class switched due to studio travel                               |
-| **Week 07 (07/11/2022)** | [Grasshopper Advanced](Timetable_DDM_I/Week_07.md)                |
-| **Week 08 (14/11/2022)** | [QGIS Intro](Timetable_DDM_I/Week_08_1.md)                        |
-| **Week 08 (16/11/2022)** | [Topolography in Rhino/Grasshopper](Timetable_DDM_I/Week_08_2.md) |
-| **Week 09 (21/11/2022)** | [QGIS Intermediate](Timetable_DDM_I/Week_09.md)                   |
-| **Week 10 (28/11/2022)** | [QGIS Advanced](Timetable_DDM_I/Week_10.md)                       |
-| **Week 11 (05/12/2022)** | Pipeline and Beyond (Timetable_DDM_I/Week_11.md)                  |
+| Week/Date                | Content                                                            |
+| ------------------------ | ----------------------------------------------------------------   |
+| **Week 01 (26/09/2022)** | [Kickoff Session](Timetable_DDM_I/Week_01.md)                      |
+| **Week 02 (03/10/2022)** | [Rhinoceros Introduction](Timetable_DDM_I/Week_02.md)              |
+| **Week 03 (10/10/2022)** | [Rhinoceros Advanced Modelling](Timetable_DDM_I/Week_03.md)        |
+| **Week 04 (17/10/2022)** | [Grasshopper Introduction](Timetable_DDM_I/Week_04.md)             |
+| **Week 05 (24/10/2022)** | Seminar Week                                                       |
+| **Week 06 (31/10/2022)** | Class switched due to studio travel                                |
+| **Week 07 (07/11/2022)** | [Grasshopper Advanced](Timetable_DDM_I/Week_07.md)                 |
+| **Week 08 (14/11/2022)** | [QGIS Intro](Timetable_DDM_I/Week_08_1.md)                         |
+| **Week 08 (16/11/2022)** | [Topolography in Rhino/Grasshopper](Timetable_DDM_I/Week_08_2.md)  |
+| **Week 09 (21/11/2022)** | [QGIS Intermediate](Timetable_DDM_I/Week_09.md)                    |
+| **Week 10 (28/11/2022)** | [QGIS Advanced](Timetable_DDM_I/Week_10.md)                        |
+| **Week 11 (05/12/2022)** | [Workflow and Topography Modification](Timetable_DDM_I/Week_11.md) |
 
 
 <!-- - [**Week 01** (26.09.22) - Kickoff Session](Timetable_DDM_I/Week_01.md) -->
