@@ -12,7 +12,9 @@ Location: LVML (HIL H 40.8)
 13:45-14:30, Randomness, Topography Modification
 
 
-<!-- ## Final Project Assignment  -->
+## Final Project Assignment 
+
+- [Assignment_Final](../assignments/Assignment_Final.pdf)
 
 
 
